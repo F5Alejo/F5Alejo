@@ -1,6 +1,10 @@
 <div align="center">
-  
-# 👋 Hi, I'm Alejandro Zorro
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+ 
+
+</div> 
+<h1>I'm Alejandro Zorro</h1>
 
 ### Full Stack Developer in Training | Open to Work  <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 </p>
@@ -10,12 +14,9 @@
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+573007357662)
 
 </div>
+<h3>🚀 About Me</h3>
 
----
-
-## 🚀 About Me
-
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="230" height="auto" />
 
   
 I'm a passionate **Full Stack Developer** student actively seeking opportunities to contribute to innovative projects. I love building robust applications and exploring new technologies to solve real-world problems.
@@ -23,11 +24,12 @@ I'm a passionate **Full Stack Developer** student actively seeking opportunities
 - 🔭 Currently working on **FinanceUp** and other exciting projects
 - 🌱 Learning and growing as a Full Stack Developer
 - 💼 Open to job opportunities and collaborations
-- 📫 Reach me at: alejandrozorrohernandez@gmail.com
+-   I study at <a href="https://www.sena.edu.co">SENA (Servicio Nacional de Aprendizaje)</a> <br>
+-   I also study at <a href="https://www.unisangil.edu.co">Unisangil University</a>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🛠️ Tech Stack
+
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -49,43 +51,20 @@ I'm a passionate **Full Stack Developer** student actively seeking opportunities
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F5Alejo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F5Alejo&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=F5Alejo&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-### 🏦 FinanceUp
-A comprehensive financial management platform built with modern web technologies.
-- **Tech Stack:** PostgreSQL, Node.js, JavaScript
-- **Features:** Credit intermediation, multi-schema architecture, financial analytics
-- [View Project](#) <!-- Add your project link -->
-
-### 💻 Project Name 2
-Brief description of another notable project.
-- **Tech Stack:** Your tech stack
-- **Features:** Key features
-- [View Project](#) <!-- Add your project link -->
-
-### 🔧 Project Name 3
-Brief description of another project.
-- **Tech Stack:** Your tech stack
-- **Features:** Key features
-- [View Project](#) <!-- Add your project link -->
-
----
 
 ## 🎯 Skills in Action
 
@@ -101,36 +80,9 @@ const alejandro = {
     funFact: "I love turning ideas into code!"
 };
 ```
-
----
-
-## 📈 Learning Journey
-
-- 🎓 **Full Stack Development** - In Progress
-- 🌐 Building **FinanceUp** and other web applications
-- 📚 Constantly learning new technologies and best practices
-- 🤝 Open to mentorship and collaboration opportunities
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in connecting with fellow developers, discussing new projects, or exploring job opportunities.
-
 <div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Gmail](https://img.shields.io/badge/-alejandrozorrohernandez@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:alejandrozorrohernandez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Fabio_Alejandro_Zorro_H-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabio-alejandro-zorro-h)
-[![Phone](https://img.shields.io/badge/-+57_300_735_7662-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](tel:+573007357662)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-
+<img height="190" alt="TheMonkey" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5MHM2eWFuM3p5em9lbnF2OGkyd3ZoMG1kYXJoOGNpbWlzeDdpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
