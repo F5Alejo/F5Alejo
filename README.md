@@ -2,7 +2,8 @@
   
 # 👋 Hi, I'm Alejandro Zorro
 
-### Full Stack Developer in Training | Open to Work
+### Full Stack Developer in Training | Open to Work  <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrozorrohernandez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-alejandro-zorro-h)
@@ -14,6 +15,9 @@
 
 ## 🚀 About Me
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+  
 I'm a passionate **Full Stack Developer** student actively seeking opportunities to contribute to innovative projects. I love building robust applications and exploring new technologies to solve real-world problems.
 
 - 🔭 Currently working on **FinanceUp** and other exciting projects
